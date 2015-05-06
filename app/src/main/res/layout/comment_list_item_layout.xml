@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:layout_height="22dp">
+    <TextView
+        android:id="@+id/username"
+        android:textColor="@color/user_name_color"
+        android:textSize="11sp"
+        android:text="黄晓明"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/comment"
+        android:textColor="@color/content_color"
+        android:textSize="11sp"
+        android:text="：别忘了叫上我哈~好久没打球了！！！"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

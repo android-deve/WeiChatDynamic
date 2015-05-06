@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+    <string name="please_input_content">说点什么吧~</string>
+    <string-array name="user_name">
+        <item>Eric</item>
+        <item>Taylor Swift</item>
+        <item>J.K Rolling</item>
+        <item>黄晓明</item>
+        <item>范冰冰</item>
+        <item>Kat Dennings</item>
+        <item>Curry</item>
+    </string-array>
+    <string-array name="comment_array">
+        <item>别忘了叫上我</item>
+        <item>真的假的，你多久没打篮球了</item>
+        <item>Please call me.</item>
+        <item>哇哇，我也想去哦</item>
+        <item>天气不错，我去也，等着哥~</item>
+    </string-array>
+    <string-array name="user_logo">
+        <item>http://b.hiphotos.baidu.com/image/pic/item/e4dde71190ef76c666af095f9e16fdfaaf516741.jpg</item>
+        <item>http://g.hiphotos.baidu.com/image/pic/item/241f95cad1c8a786ffd8fd0f6509c93d71cf50c4.jpg</item>
+        <item>http://d.hiphotos.baidu.com/image/pic/item/b3b7d0a20cf431ad108be3244936acaf2edd9856.jpg</item>
+        <item>http://c.hiphotos.baidu.com/image/pic/item/cb8065380cd791234d5d2f75af345982b2b78076.jpg</item>
+        <item>http://c.hiphotos.baidu.com/image/pic/item/9a504fc2d5628535cfcfbd2093ef76c6a7ef6387.jpg</item>
+        <item>http://a.hiphotos.baidu.com/image/pic/item/d788d43f8794a4c2bd56dc380df41bd5ad6e39af.jpg</item>
+        <item>http://a.hiphotos.baidu.com/image/pic/item/b7fd5266d01609245b827b19d60735fae6cd3409.jpg</item>
+        <item>http://h.hiphotos.baidu.com/image/pic/item/1e30e924b899a901d36112371f950a7b0208f55f.jpg</item>
+        <item>http://f.hiphotos.baidu.com/image/pic/item/1ad5ad6eddc451da145f79fdb5fd5266d016327e.jpg</item>
+    </string-array>
+    <string-array name="images_array">
+        <item>http://images-fast.digu365.com/sp/width/736/adf89157f37ebeb5108bd838ba3eb6e8_0020.jpeg?f=detail</item>
+        <item>http://images-fast.digu365.com/sp/width/736/c10f483b823fba4f3f545bada64a57d9_0005.jpg?f=detail</item>
+        <item>http://images-fast.digu365.com/sp/width/736/b54073aabbefd2b283a15c2b1b9411bc_0001.jpg?f=detail</item>
+        <item>http://images-fast.digu365.com/sp/width/736/2407b0c42c121989b2bf6d396d51c540_0001.jpg?f=detail</item>
+        <item>http://c.hiphotos.baidu.com/image/w%3D230/sign=f03d63ad6f224f4a5799741039f69044/11385343fbf2b211d1d590c5c88065380dd78e45.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/w%3D230/sign=47caf160fa1986184147e8877aec2e69/3c6d55fbb2fb431699f30e7b22a4462308f7d3c7.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/w%3D230/sign=1aecedec0f3387449cc5287f610ed937/30adcbef76094b364067a851a0cc7cd98c109d91.jpg</item>
+        <item>http://e.hiphotos.baidu.com/image/w%3D230/sign=afa7e154b44543a9f51bfdcf2e168a7b/f3d3572c11dfa9ec96ad69b761d0f703908fc18a.jpg</item>
+        <item>http://f.hiphotos.baidu.com/image/pic/item/2fdda3cc7cd98d1034ac7a30233fb80e7bec90b2.jpg</item>
+    </string-array>
+</resources>

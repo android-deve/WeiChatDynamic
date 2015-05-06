@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="edit_bottom_view_solie_color">#FFFFFF</color>
+    <color name="edit_bottom_view_border_color">#E3E3E4</color>
+    <color name="border_color">#C1C1C1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="user_name_color">#3498DB</color>
+    <color name="content_color">#7F8C8D</color>
+</resources>

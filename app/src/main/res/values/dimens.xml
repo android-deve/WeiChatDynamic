@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="logo_width">40dp</dimen>
+    <dimen name="item_name_min_height">20dp</dimen>
+    <dimen name="grid_image_width">240dp</dimen>
+    <dimen name="gridview_item_width">80dp</dimen>
+    <dimen name="edit_bottom_view_radius">2dp</dimen>
+    <dimen name="edit_bottom_view_border_width">1px</dimen>
+    <dimen name="edit_bottom_view_height">32dp</dimen>
+    <dimen name="edit_bottom_view_btn_width">56dp</dimen>
+    <dimen name="icon_width">22dp</dimen>
+</resources>
